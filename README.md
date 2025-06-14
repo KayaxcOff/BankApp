@@ -1,2 +1,3 @@
-# BankApp
-A banking application with using Java
+**Banking Application**
+
+A simle banking application with using Swing library of Java
